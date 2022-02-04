@@ -1,6 +1,6 @@
 # Twitter_User_Predictor
 
-Predicts which one of two twitter users most likely made a tweet
+Predicts which one of two twitter users most likely made (or would make) a tweet
 
 Use: download the file, then run it either in a python terminal or using the IDE of your choice.
 When the file is run, you will be asked to input two twitter users and the text you wish to test in the terminal.  Input two twitter users, no @, then your text.
